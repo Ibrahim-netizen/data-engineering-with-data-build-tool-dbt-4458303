@@ -1,4 +1,4 @@
-SELECT
+select
     violations.summons_number,
     violations.issue_date,
     violations.violation_code,

@@ -8,4 +8,4 @@ WHERE
 GROUP BY
     registration_state
 ORDER BY
-    ticket_count DESC
+    ticket_count DESC 

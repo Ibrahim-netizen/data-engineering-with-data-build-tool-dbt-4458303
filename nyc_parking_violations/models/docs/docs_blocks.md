@@ -4,7 +4,7 @@ Code representing the specific parking violation.
 
 {% docs definition %}
 Description of the violation for a respective code.
-{% enddocs %}
+{% enddocs %} 
 
 {% docs manhattan_96th_st_below %}
 The fee in $USD for a violation on or below Manhattan 96th Street.
