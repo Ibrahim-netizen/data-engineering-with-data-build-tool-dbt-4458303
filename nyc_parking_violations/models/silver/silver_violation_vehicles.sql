@@ -1,4 +1,4 @@
-SELECT
+select 
     summons_number,
     registration_state,
     plate_type,

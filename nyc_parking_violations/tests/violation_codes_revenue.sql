@@ -8,4 +8,4 @@ FROM
 GROUP BY
     violation_code
 HAVING
-    NOT(total_revenue_usd >= 1)
+    NOT(total_revenue_usd >= 1) 
